@@ -1,0 +1,37 @@
+[
+  {
+    "libraryIdentifier" : "bc2a1c696736c804b86e26b228176f1f",
+    "format" : "model",
+    "displayName" : "LemonMeringuePie.usdz"
+  },
+  {
+    "libraryIdentifier" : "08fc62597fa89fafb44dd632c0054168",
+    "format" : "model",
+    "displayName" : "tv_retro.usdz"
+  },
+  {
+    "libraryIdentifier" : "9d815d63f925144125df63b523b607b3",
+    "format" : "model",
+    "displayName" : "cup_saucer_set.usdz"
+  },
+  {
+    "libraryIdentifier" : "66c424802054b5c5b25cf9d2ec10ce6a",
+    "format" : "model",
+    "displayName" : "teapot.usdz"
+  },
+  {
+    "libraryIdentifier" : "67269e2fe922c7eaa1d2dbe33642b735",
+    "format" : "model",
+    "displayName" : "CosmonautSuit_en.reality"
+  },
+  {
+    "libraryIdentifier" : "69e9a494942b17db16ec53176e1b5e0e",
+    "format" : "model",
+    "displayName" : "hab_en.reality"
+  },
+  {
+    "libraryIdentifier" : "11685f9e3491e95933aa543c150cf99a",
+    "format" : "model",
+    "displayName" : "LunarRover_English.reality"
+  }
+]
